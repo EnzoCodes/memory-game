@@ -1,6 +1,6 @@
 Memory Game, Built with React!
 ==============================
-Play game here: 
+Play game here: https://enzocodes.github.io/memory-game/
 
   This is the production version of EnzoCodes front end
 React App. To play, attempt to click all 20 tiles without
